@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SamparkAttendance</string>
+    <string name="sample_day">Thursday</string>
+    <string name="sabha_name">Sabha name</string>
+    <string name="mandal_name">Mandal Name</string>
+    <string name="date">Date</string>
+    <string name="present">Present</string>
+</resources>
